@@ -78,6 +78,11 @@ print(s.getsockname())
 print(s.recv(1024).decode())
 s.send("acknowledgement recived from the server".encode())
 ```
+## Output :
+## client
+![image](https://github.com/iniyasri4464/SocketStudy/assets/152419072/e6b696e1-1d80-4dd0-9470-de795ff21f6a)
+## Server
+![image](https://github.com/iniyasri4464/SocketStudy/assets/152419072/94006ab9-08b7-4ed1-a682-8e759eeb9c66)
 
 ## Result:
 Thus the study of Socket Programming Completed Successfully
