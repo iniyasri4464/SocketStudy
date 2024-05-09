@@ -1,5 +1,6 @@
 # Ex.No:1a  			Study of Socket Programming
-
+## Name:Iniyasri.S
+## Register number:212223230081
 ## Aim: 
 To perform a study on Socket Programming
 ## Introduction:
